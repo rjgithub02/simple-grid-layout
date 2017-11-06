@@ -1,0 +1,28 @@
+body {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows:
+  "header header"
+  "main aside"
+  "footer footer"
+}
+
+header {
+  background-color: #90ff00;
+
+}
+
+main {
+  background-color: #fff055;
+
+}
+
+aside {
+  background-color: #f8500f;
+
+}
+
+footer {
+  background-color: #5fffaf;
+
+}
