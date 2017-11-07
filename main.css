@@ -31,7 +31,7 @@ aside {
 
 footer {
   background-color: #5fffaf;
-  grid-area: footer
+  grid-area: footer;
 }
 
 @media (max-width:600px) {
@@ -41,6 +41,6 @@ footer {
     "header"
     "main"
     "aside"
-    "footer"
+    "footer";
   }
 }
